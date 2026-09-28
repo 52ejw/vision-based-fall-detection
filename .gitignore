@@ -1,0 +1,10 @@
+data/
+processed/
+models/
+logs/
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+.env
