@@ -8,3 +8,7 @@ __pycache__/
 *.pyc
 
 .env
+
+logs_urfd_le2i/
+models_urfd_le2i/
+processed_urfd_le2i/
