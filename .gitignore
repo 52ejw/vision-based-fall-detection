@@ -2,6 +2,7 @@
 .venv/
 venv/
 env/
+.env
 
 # Python cache files
 __pycache__/
@@ -23,10 +24,13 @@ datasets/
 
 # Generated preprocessing outputs
 processed/
+processed_urfd_le2i/
 
 # Model files and training outputs
 models/
+models_urfd_le2i/
 results/
 
 # Logs
 *.log
+logs_urfd_le2i/
